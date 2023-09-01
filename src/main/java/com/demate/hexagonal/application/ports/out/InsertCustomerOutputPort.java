@@ -7,3 +7,4 @@ public interface InsertCustomerOutputPort {
     void insert(Customer customer);
 
 }
+
