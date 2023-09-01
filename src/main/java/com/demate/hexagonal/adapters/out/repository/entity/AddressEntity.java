@@ -1,9 +1,9 @@
-package com.demate.hexagonal.adapters.out.client.response;
+package com.demate.hexagonal.adapters.out.repository.entity;
 
 import lombok.Data;
 
 @Data
-public class AddressResponse {
+public class AddressEntity {
 
     private String street;
     private String city;
